@@ -22,6 +22,10 @@ body {
   flex-flow: wrap;
 }
 
+xmp {
+  margin: 0 0;
+}
+
 .frameVertical {
   display: flex;
   flex-direction: column;
@@ -88,8 +92,9 @@ code .dec {
 
 pre.prettyprint,
 code.prettyprint {
-  background-color: #000;
+  background-color: #0a2239;
   border-radius: 8px;
+  border: none;
 }
 
 pre.prettyprint {

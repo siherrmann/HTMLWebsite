@@ -29,6 +29,7 @@ xmp {
   margin: 0 0;
   display: flex;
   flex-flow: row wrap;
+  margin-right: 40px;
 }
 
 .frameVertical {

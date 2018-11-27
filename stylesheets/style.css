@@ -27,6 +27,8 @@ body {
 
 xmp {
   margin: 0 0;
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .frameVertical {

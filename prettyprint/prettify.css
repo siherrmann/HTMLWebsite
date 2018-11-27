@@ -84,13 +84,21 @@
     color: #060;
   }
 }
+
 pre.prettyprint {
+  background-color: #0a2239;
+  border-radius: 8px;
   padding: 2px;
+  width: 95%;
+  margin: 20px;
 }
+
 ol.linenums {
   margin-top: 0;
   margin-bottom: 0;
+  color: #cec9c7;
 }
+
 li.L0,
 li.L1,
 li.L2,
@@ -101,6 +109,7 @@ li.L7,
 li.L8 {
   list-style-type: none;
 }
+
 li.L1,
 li.L3,
 li.L5,

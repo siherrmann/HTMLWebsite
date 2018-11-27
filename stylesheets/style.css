@@ -22,5 +22,29 @@ body {
   flex-flow: wrap;
 }
 
+.frameVertical {
+  display: flex;
+  flex-direction: column;
+  flex-flow: wrap;
+  justify-content: space-between;
+}
+
+.frameHorizontal {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  justify-content: space-between;
+}
+
+/*
+ * content
+ */
+
+.content {
+  width: 66vw;
+  max-width: 1000px;
+  background-color: #121420;
+}
+
 @media all and (max-width: 880px) {
 }

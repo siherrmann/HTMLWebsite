@@ -24,7 +24,6 @@ body {
 
 xmp {
   margin: 0 0;
-  background-color: #091c2f;
   border-radius: 2px;
 }
 
@@ -130,6 +129,7 @@ li.L3,
 li.L5,
 li.L7,
 li.L9 {
+  background-color: #091c2f;
 }
 
 @media print {

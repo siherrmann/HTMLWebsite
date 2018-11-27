@@ -15,7 +15,7 @@ html {
 body {
   z-index: 0;
   display: flex;
-  background-color: #121420;
+  background-color: #272934;
   background-attachment: fixed;
   background-size: cover;
   font-size: 20px;
@@ -43,8 +43,9 @@ body {
 .content {
   width: 66vw;
   max-width: 1000px;
-  background-color: #121420;
   height: 100vh;
+  margin: 20px auto;
+  background-color: #121420;
 }
 
 @media all and (max-width: 880px) {

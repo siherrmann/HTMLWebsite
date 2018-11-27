@@ -24,7 +24,6 @@ body {
 
 xmp {
   margin: 0 0;
-  border-radius: 2px;
 }
 
 .frameVertical {
@@ -130,6 +129,7 @@ li.L5,
 li.L7,
 li.L9 {
   background-color: #091c2f;
+  border-radius: 2px;
 }
 
 @media print {

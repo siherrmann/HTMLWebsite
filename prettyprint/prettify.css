@@ -89,7 +89,6 @@ pre.prettyprint {
   background-color: #0a2239;
   border-radius: 8px;
   padding: 2px;
-  width: 95%;
   margin: 20px;
 }
 
@@ -117,4 +116,5 @@ li.L7,
 li.L9 {
   background-color: #091c2f;
   border-radius: 2px;
+  padding: 2px;
 }

@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Abel";
+  font-display: block;
+  font-style: normal;
+  font-weight: 400;
+  src: local("☺"),
+    url(https://fonts.gstatic.com/s/abel/v8/MwQ5bhbm2POE2V9BPQ.woff2)
+      format("woff2");
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  z-index: 0;
+  display: flex;
+  background-color: #121420;
+  background-attachment: fixed;
+  background-size: cover;
+  font-size: 20px;
+  flex-flow: wrap;
+}
+
+@media all and (max-width: 880px) {
+}

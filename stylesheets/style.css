@@ -20,6 +20,8 @@ body {
   background-size: cover;
   font-size: 16px;
   flex-flow: wrap;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #cec9c7;
 }
 
 xmp {
@@ -48,6 +50,7 @@ xmp {
   width: 66vw;
   max-width: 1000px;
   margin: 20px auto;
+  padding: 20px;
   background-color: #121420;
 }
 

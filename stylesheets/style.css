@@ -46,7 +46,7 @@ code .str {
 } /* string  - green */
 pre .kwd,
 code .kwd {
-  color: #e28964;
+  color: #f72c25;
 } /* keyword - dark pink */
 pre .com,
 code .com {
@@ -63,19 +63,19 @@ code .lit {
 } /* literal - blue */
 pre .pun,
 code .pun {
-  color: #fff;
+  color: #cec9c7;
 } /* punctuation - white */
 pre .pln,
 code .pln {
-  color: #fff;
+  color: #cec9c7;
 } /* plaintext - white */
 pre .tag,
 code .tag {
-  color: #89bdff;
+  color: #f72c25;
 } /* html/xml tag    - light blue */
 pre .atn,
 code .atn {
-  color: #bdb76b;
+  color: #f1aa19;
 } /* html/xml attribute name  - khaki */
 pre .atv,
 code .atv {

@@ -15,7 +15,7 @@ html {
 body {
   z-index: 0;
   display: flex;
-  background-color: #272934;
+  background-color: #0f0f13;
   background-attachment: fixed;
   background-size: cover;
   font-size: 18px;
@@ -56,6 +56,11 @@ xmp {
   margin: 20px auto;
   padding: 40px;
   background-color: #121420;
+}
+
+.centeredText {
+  width: 100%;
+  text-align: center;
 }
 
 @media all and (max-width: 880px) {
